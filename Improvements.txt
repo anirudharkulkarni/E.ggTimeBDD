@@ -1,0 +1,2 @@
+We can use Jenkins for better results
+We can also use testNg frame work

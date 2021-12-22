@@ -6,5 +6,5 @@
    Created base class for launch browser.
    Add steps to validate workflows.
 3. Created Test Runner class.
-4. Run Program from testrunner class.
+4. Run Program from testrunner class using Junit
 5. Reports are created for testcases.
